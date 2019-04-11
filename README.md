@@ -1,4 +1,4 @@
-# Sticky REST API Server
+# Contact REST API Server
 
 Follow below steps in order to start the application.
 
